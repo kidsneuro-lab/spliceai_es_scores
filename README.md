@@ -8,9 +8,7 @@ Pre computed Splice AI scores for essential splice sites
 
 * The score represents the SpliceAI reference score of a given Donor or Acceptor (based on those annotated in RefSeq)
 
-
-
-
+<img width="1124" alt="image" src="https://user-images.githubusercontent.com/1222657/187672426-433353fd-6eb8-48ef-9f95-f673bb328d53.png">
 
 Steps to convert VCF to BED
 
